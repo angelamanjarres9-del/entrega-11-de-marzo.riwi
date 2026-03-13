@@ -13,7 +13,7 @@ while seleccion != "salir":
     
     if seleccion == "salir":
         break
-        print ("saliendo del menu...")
+        
     
     cantidad = int(input("cuantos deseas?: "))
     
